@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/soumesh-kumar-pattanaik-320362200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumesh kumar pattanaik" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/soumesh_014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soumesh_014" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/soumesh-kumar-pattanaik-320362200/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumesh kumar pattanaik" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/soumesh_014" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soumesh_014" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
