@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soumesh</h1>
 <h3 align="center">A passionate learner from India</h3>
-<h3 align="right" alt="Coding" width="400" src="https://miro.medium.com/max/806/0*s2ivt9cecdqsXvts.gif">
+<img align="right" alt="Coding" width="300" src="https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
 - 🌱 I’m currently learning **React Native, Machine Learning and Cloud**
 
